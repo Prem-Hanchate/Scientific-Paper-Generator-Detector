@@ -38,56 +38,6 @@ The application runs entirely in the browser using sophisticated JavaScript algo
 
 ---
 
-## 🚀 Features
-
-### 🎯 Core Functionality
-- **AI Paper Generator**: Creates plausible, but fabricated, scientific papers with comprehensive sections including:
-  - Dynamic title generation
-  - Detailed abstracts
-  - Structured introductions
-  - Fake dataset metrics and statistics
-  
-- **AI Detection Simulator**: Advanced text analysis providing:
-  - Probability scores for AI-generated content
-  - Confidence level assessments
-  - Detailed list of suspicious textual elements
-  - Educational hints for manual detection
-
-### 🎨 User Experience
-- **Dark/Light Mode Toggle**: Seamless theme switching for comfortable viewing
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
-- **Interactive UI**: Modern, intuitive interface with smooth animations
-- **File Management**: Advanced file handling capabilities
-- **Toast Notifications**: Real-time feedback and status updates
-
-### 🔧 Technical Features
-- **Fully Client-Side**: No backend required - runs entirely in the browser
-- **Real-time Processing**: Instant text analysis and paper generation
-- **Download Functionality**: Export generated papers as text files
-- **Educational Focus**: Built-in learning materials and detection guides
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Framework
-- **React.js 19.1.1** - Modern component-based UI framework
-- **Vite 7.1.2** - Fast build tool and development server
-
-### Styling & UI
-- **Bootstrap 5.3.8** - Responsive design framework
-- **Tailwind CSS 4.1.13** - Utility-first CSS framework
-- **Custom CSS** - Enhanced styling and animations
-
-### Icons & Graphics
-- **Lucide React 0.544.0** - Beautiful, customizable icon set
-
-### Development Tools
-- **ESLint 9.33.0** - Code linting and quality assurance
-- **PostCSS 8.5.6** - CSS processing and optimization
-- **Autoprefixer 10.4.21** - Automatic CSS vendor prefixing
-
----
 
 ## 🏃‍♂️ How to Run
 
@@ -140,6 +90,57 @@ yarn preview
 ### Additional Scripts
 - `npm run lint` - Run ESLint for code quality checks
 - `npm run lint:fix` - Automatically fix linting issues
+
+---
+
+## 🚀 Features
+
+### 🎯 Core Functionality
+- **AI Paper Generator**: Creates plausible, but fabricated, scientific papers with comprehensive sections including:
+  - Dynamic title generation
+  - Detailed abstracts
+  - Structured introductions
+  - Fake dataset metrics and statistics
+  
+- **AI Detection Simulator**: Advanced text analysis providing:
+  - Probability scores for AI-generated content
+  - Confidence level assessments
+  - Detailed list of suspicious textual elements
+  - Educational hints for manual detection
+
+### 🎨 User Experience
+- **Dark/Light Mode Toggle**: Seamless theme switching for comfortable viewing
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
+- **Interactive UI**: Modern, intuitive interface with smooth animations
+- **File Management**: Advanced file handling capabilities
+- **Toast Notifications**: Real-time feedback and status updates
+
+### 🔧 Technical Features
+- **Fully Client-Side**: No backend required - runs entirely in the browser
+- **Real-time Processing**: Instant text analysis and paper generation
+- **Download Functionality**: Export generated papers as text files
+- **Educational Focus**: Built-in learning materials and detection guides
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Framework
+- **React.js 19.1.1** - Modern component-based UI framework
+- **Vite 7.1.2** - Fast build tool and development server
+
+### Styling & UI
+- **Bootstrap 5.3.8** - Responsive design framework
+- **Tailwind CSS 4.1.13** - Utility-first CSS framework
+- **Custom CSS** - Enhanced styling and animations
+
+### Icons & Graphics
+- **Lucide React 0.544.0** - Beautiful, customizable icon set
+
+### Development Tools
+- **ESLint 9.33.0** - Code linting and quality assurance
+- **PostCSS 8.5.6** - CSS processing and optimization
+- **Autoprefixer 10.4.21** - Automatic CSS vendor prefixing
 
 ---
 
