@@ -1,12 +1,12 @@
 # 🔬 Scientific Paper Generator & Detector# 📝 Scientific Paper AI Detection Tool
 
+Built as an **educational prototype**, this project provides a hands-on experience for understanding AI-generated academic content. It features a **generator** to create a fake paper and a **detector** to identify its AI characteristics — all within a single, front-end application.
 
-
-[![React](https://img.shields.io/badge/React-19.1.1-blue.svg)](https://reactjs.org/)Built as an **educational prototype**, this project provides a hands-on experience for understanding AI-generated academic content. It features a **generator** to create a fake paper and a **detector** to identify its AI characteristics — all within a single, front-end application.
+[![React](https://img.shields.io/badge/React-19.1.1-blue.svg)](https://reactjs.org/)
 
 [![Vite](https://img.shields.io/badge/Vite-7.1.2-purple.svg)](https://vitejs.dev/)
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-blueviolet.svg)](https://getbootstrap.com/)---
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-blueviolet.svg)](https://getbootstrap.com/)
 
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](#)
 
@@ -16,37 +16,10 @@ An innovative educational tool designed to demonstrate the capabilities and limi
 
 - **AI Detection Simulator**: Analyzes text for signs of AI-generated content, providing a probability score, confidence level, and a list of suspicious elements.  
 
----- **Educational Focus**: Designed to raise awareness about academic fraud and digital literacy, with “detection hints” to guide users on spotting AI-generated text.  
+- **Educational Focus**: Designed to raise awareness about academic fraud and digital literacy, with “detection hints” to guide users on spotting AI-generated text.  
 
 - **Fully Client-Side**: Runs entirely in the browser using simulated JavaScript logic (no backend required).  
 
-## 📋 Table of Contents
-
-- [Introduction](#introduction)---
-
-- [Description](#description)
-
-- [Features](#features)## 🛠️ Tech Stack
-
-- [Tech Stack](#tech-stack)- **Frontend:** React.js (component-based UI)  
-
-- [How to Run](#how-to-run)- **Styling:** Bootstrap 5.3 (responsive design & layout)  
-
-- [Screenshots](#screenshots)- **Icons:** Lucide React (modern icon set)  
-
-- [Project Structure](#project-structure)  - **Logic:** Pure JavaScript (randomized data simulation)  
-
-- [Contributing](#contributing)
-
-- [Disclaimer](#disclaimer)---
-
-- [Built By](#built-by)
-
-## ⚖️ Disclaimer
-
----This project is **for educational purposes only** and aims to spread awareness about academic fraud.  
-
-It should **never** be used for actual academic submissions.  
 
 ## 🌟 Introduction
 
@@ -167,22 +140,6 @@ yarn preview
 ### Additional Scripts
 - `npm run lint` - Run ESLint for code quality checks
 - `npm run lint:fix` - Automatically fix linting issues
-
----
-
-## 📸 Screenshots
-
-### Paper Generator Interface
-<img width="1354" height="602" alt="Paper Generator Interface" src="https://github.com/user-attachments/assets/71b1ef89-6d9b-4d2a-8af3-dcb311bb78d9" />
-
-### AI Detection Analysis
-<img width="1351" height="639" alt="AI Detection Analysis" src="https://github.com/user-attachments/assets/88e7649f-389a-4253-9082-1f657c8ed602" />
-
-### Dark Mode Interface
-<img width="1347" height="639" alt="Dark Mode Interface" src="https://github.com/user-attachments/assets/080714c3-0af7-465b-b548-de649647389f" />
-
-### Detection Results
-<img width="1350" height="638" alt="Detection Results" src="https://github.com/user-attachments/assets/9fec7eca-bca0-473a-81c5-541884e7c9e6" />
 
 ---
 
