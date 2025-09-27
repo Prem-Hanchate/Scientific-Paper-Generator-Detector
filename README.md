@@ -10,20 +10,16 @@ Built as an **educational prototype**, this project provides a hands-on experien
 
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](#)
 
-## 🚀 Features
+## 🌟 Introduction
+
+In today's digital age, the rise of AI-powered content generation has created new challenges in academic integrity. The **Scientific Paper Generator & Detector** is an educational prototype that helps users understand how AI-generated academic content works and how to identify it. This tool provides a safe environment to explore the boundaries between human and artificial intelligence in academic writing.
 
 An innovative educational tool designed to demonstrate the capabilities and limitations of AI-generated academic content. This application serves as both a scientific paper generator and an AI detection system, providing users with hands-on experience in understanding artificial intelligence in academic writing.- **AI Paper Generator**: Creates plausible, but fabricated, scientific papers with sections like title, abstract, introduction, and fake dataset metrics.  
 
 - **AI Detection Simulator**: Analyzes text for signs of AI-generated content, providing a probability score, confidence level, and a list of suspicious elements.  
-
 - **Educational Focus**: Designed to raise awareness about academic fraud and digital literacy, with “detection hints” to guide users on spotting AI-generated text.  
 
 - **Fully Client-Side**: Runs entirely in the browser using simulated JavaScript logic (no backend required).  
-
-
-## 🌟 Introduction
-
-In today's digital age, the rise of AI-powered content generation has created new challenges in academic integrity. The **Scientific Paper Generator & Detector** is an educational prototype that helps users understand how AI-generated academic content works and how to identify it. This tool provides a safe environment to explore the boundaries between human and artificial intelligence in academic writing.
 
 ---
 
@@ -209,8 +205,6 @@ The generated papers are intentionally fabricated and contain no real scientific
 ## 👨‍💻 Built By
 
 **[Prem Hanchate](https://github.com/Prem-Hanchate)**
-
-*Passionate developer dedicated to creating educational tools that promote digital literacy and academic integrity.*
 
 ---
 
